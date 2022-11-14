@@ -3,7 +3,7 @@ body {
     height: 100%;
     padding: 0;
     margin: 0;
-    background: rgb(0, 0, 0);
+    background: #171925;
     display: flex;
     justify-content: center;
     align-items: center;
