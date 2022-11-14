@@ -68,7 +68,7 @@ body {
   margin: 0;
   font-size: 45px;
   margin-top: -0.6em;
-  color: white;
+  color: red;
   text-shadow: 0 0 0.05em #fff, 0 0 0.2em #fe05e1, 0 0 0.3em #fe05e1;
   transform: transform(-7deg);
    z-index:1000
